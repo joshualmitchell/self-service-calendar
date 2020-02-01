@@ -65,15 +65,6 @@ Displays a complete, interactive calendar.
 |----|----|----|----|
 |todo |todo|todo|todo|
 
-### MonthView, YearView, DecadeView, CenturyView
-
-Displays a given month, year, decade and a century, respectively.
-
-#### Props
-
-|Prop name|Description|Default value|Example values|
-|----|----|----|----|
-|todo |todo|todo|todo|
 ## Author
 
 <table>
