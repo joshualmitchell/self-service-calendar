@@ -55,10 +55,6 @@ instead.
 
 ## User guide
 
-### Calendar
-
-Displays a complete, interactive calendar.
-
 #### Props
 
 |Prop name|Description|Default value|Example values|
