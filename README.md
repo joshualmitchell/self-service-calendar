@@ -19,7 +19,7 @@ A calendar designed to allow users to book their own appointments with each othe
 
 TODO: Minimal demo page is included in sample directory.
 
-TODO: [Online demo](http://projects.wojtekmaj.pl/react-calendar/) is also available!
+TODO: [Online demo](https://lelon.io/self-service-calendar/) is also available!
 
 
 ### Compatibility
@@ -45,7 +45,7 @@ TODO: Check the [sample directory](https://github.com/joshualmitchell/self-servi
 
 ### Custom styling
 
-TODO: If you want to use default Self-Service-Calendar styling to build upon it, you can import React-Calendar's styles by using:
+TODO: If you want to use default Self-Service-Calendar styling to build upon it, you can import Self-Service-Calendar's styles by using:
 
 ```js
 import 'self-service-calendar/dist/SSCalendar.css';
