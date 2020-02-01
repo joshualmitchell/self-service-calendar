@@ -30,5 +30,25 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A React Calendar component designed to be a self-service interface for a client to book a service time between the client and a service provider from a list of service providers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshualmitchell/self-service-calendar.git"
+  },
+  "keywords": [
+    "react",
+    "html",
+    "css",
+    "javascript",
+    "js",
+    "calendar"
+  ],
+  "author": "Joshua Lelon Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshualmitchell/self-service-calendar/issues"
+  },
+  "homepage": "https://github.com/joshualmitchell/self-service-calendar#readme"
 }
